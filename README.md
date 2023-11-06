@@ -20,7 +20,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/hossamaboali55" target="_blank"><img src="https://img.shields.io/badge/-Hossam%20Elsayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
+<a href="https://www.facebook.com/PR.H.E55/" target="_blank"><img src="https://img.shields.io/badge/-Hossam%20Elsayed%20Mohammed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
